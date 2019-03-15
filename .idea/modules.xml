@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BookCaseGradle.iml" filepath="$PROJECT_DIR$/BookCaseGradle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BookCaseGradle_main.iml" filepath="$PROJECT_DIR$/.idea/modules/BookCaseGradle_main.iml" group="BookCaseGradle" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BookCaseGradle_test.iml" filepath="$PROJECT_DIR$/.idea/modules/BookCaseGradle_test.iml" group="BookCaseGradle" />
+    </modules>
+  </component>
+</project>
